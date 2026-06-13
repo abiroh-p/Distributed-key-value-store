@@ -1,0 +1,7 @@
+node_id: "node1"
+addr: ":7000"
+peer_addr: ":8000"
+peers:
+  - "node2=:8001"
+  - "node3=:8002"
+data_dir: "./data/node1"
